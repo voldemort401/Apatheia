@@ -1,0 +1,4 @@
+/* /1* hide tabs *1/ */
+ #TabsToolbar {
+ visibility: collapse !important;
+ }
